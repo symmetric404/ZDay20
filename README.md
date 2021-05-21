@@ -30,9 +30,9 @@ ZDay20 is listed on Andrew's website (https://andrewsum.com/) however it is not 
 While the files are still on Andrew's website, it is not easy to access for most.  I decided to upload the files here just in case they either disapeared or someone else interested in them wanted to find them. 
 ## Screenshots
 
-![Screenshot](https://raw.githubusercontent.com/symmetric404/ZDay20/main/ZD1.png)
+![Screenshot](https://i.ibb.co/HdRjk2X/ZD1.png)
 
-![Screenshot](https://raw.githubusercontent.com/symmetric404/ZDay20/main/ZD2.png)
+![Screenshot](https://i.ibb.co/VDHk4rV/ZD2.png)
 ## Feedback
 
 If you have any feedback, such as corrections or additional information to add etc.  Contact me [@_HIXO](https://twitter.com/_HIXO) on Twitter.

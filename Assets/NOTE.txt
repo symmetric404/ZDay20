@@ -1,6 +1,15 @@
 [Note from repository maintainer]
 
-All files are named exactly how they were found.  However, some of the files that were found had the same name.
-To prevent directory conflicts, any file with the same name also have the place they were found put in brackets.
+All files have names found with them in the project MFA.
+However, some file names do have slight alterations to prevent directory conflicts. (ie. Same name)
 
-Example: image [LEVEL 2].png
+These files have either one or more of the following put into brackets next to their original name:
+ - Place/Level Found
+ - Type
+ - State 
+
+Example 1: image [LEVEL 2].png
+Example 2: image [PISTOL].png
+Example 3: image [WALKING].png
+
+The rest of the file name is completely original.
